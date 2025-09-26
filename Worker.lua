@@ -1,4 +1,4 @@
-rednet.open("left")
+rednet.open(peripheral.find("modem"))
 BASE_ID = nil
 
 
